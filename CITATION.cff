@@ -7,4 +7,5 @@ authors:
     given-names: Harvey
     affiliation: "Rātā BioSim Lab, Auckland, New Zealand"
 license: MIT
+doi: 10.5281/zenodo.23077925
 repository-code: "https://github.com/hwe001/opioid-withdrawal-pd-models"

@@ -1,5 +1,7 @@
 # Opioid tolerance and withdrawal: PK/PD model comparison
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23077925.svg)](https://doi.org/10.5281/zenodo.23077925)
+
 Code and data for the manuscript
 
 > Ho H. *Tolerance is not dependence: a mathematical analysis of pharmacodynamic models of opioid tolerance and withdrawal.* Submitted to the Journal of Pharmacokinetics and Pharmacodynamics.
@@ -43,4 +45,4 @@ The neonatal data were digitized from Fig. 5 (infants A and B) of Mizuno T, McPh
 
 ## Licence and citation
 
-Code and digitized data: MIT licence (see `LICENSE`). Please cite the article above; see also `CITATION.cff`.
+Code and digitized data: MIT licence (see `LICENSE`). Please cite the article above and this archive (DOI [10.5281/zenodo.23077925](https://doi.org/10.5281/zenodo.23077925)); see also `CITATION.cff`.
