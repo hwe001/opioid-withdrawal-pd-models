@@ -5,6 +5,7 @@ type: software
 authors:
   - family-names: Ho
     given-names: Harvey
+    orcid: "https://orcid.org/0000-0002-4160-0737"
     affiliation: "Rātā BioSim Lab, Auckland, New Zealand"
 license: MIT
 doi: 10.5281/zenodo.23077925
