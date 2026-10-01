@@ -1,0 +1,25 @@
+pid model    k   RMSE    AICc  dAICc     BIC  parameters (estimate [approx. 95% CI factor])
+A   M0       4   2.25    96.6    0.0   103.7  Kin=2.42 (x1.3); Kout=0.0286 (x1.5); Kremi=0.00459 (x1.2); IC50=0.178 (x1.7)
+A   MB       5   2.75   120.5   23.9   129.2  kp=0.00302 (x1.9); kout=0.248 (x3.0); IC50=10 (x823931.6); s=66.7 (x2210255.1); Pb=1.32 (x36.1)
+A   MC       5   2.52   110.9   14.3   119.6  kout=0.372 (x3.9); ktol=0.00139 (x2.6); IC50=10 (x817825.2); s=79.3 (x1613521.0); Mb=1.29 (x27.1)
+A   MCint    5   2.75   120.5   23.9   129.2  kout=0.252 (x2.9); ktol=0.00298 (x1.8); IC50=10 (x696729.7); s=65.8 (x1904593.0); Mb=1.32 (x34.9)
+A   MBimax   6   2.39   107.8   11.2   117.9  kp=0.00428 (x1.9); kout=0.177 (x2.3); IC50=0.143 (x3.7); s=316 (x12057178233.6); Pb=1.09 (x6.7); Imax=0.0388 (x4873087880.8)
+B   M0       4   1.79    63.5    0.0    70.0  Kin=0.73 (x1.5); Kout=0.0367 (x2.2); Kremi=0.0021 (x1.4); IC50=1.37 (x2.6)
+B   MB       5   1.77    65.2    1.7    73.0  kp=0.00428 (x3.1); kout=0.0273 (x3.0); IC50=1.28 (x29.9); s=2.66 (x3414.4); Pb=10.1 (x2730.7)
+B   MC       5   1.80    66.7    3.2    74.5  kout=0.043 (x3.2); ktol=0.00187 (x2.4); IC50=1.72 (x6.0); s=0.991 (x9540.1); Mb=20 (x7825.9)
+B   MCint    5   1.77    65.4    1.9    73.1  kout=0.0326 (x2.7); ktol=0.00358 (x2.8); IC50=1.66 (x50.3); s=3.23 (x6761.1); Mb=7.34 (x3383.7)
+B   MBimax   6   1.77    67.7    4.2    76.7  kp=0.00378 (x3.3); kout=0.0307 (x3.2); IC50=1.36 (x58.6); s=5.91 (x1205.8); Pb=4.78 (x486.0); Imax=0.821 (x3.7)
+
+Cumulative Finnegan score (score x day, birth to day 60): treated vs untreated counterfactual
+  A M0     treated   267.9  untreated   767.2  ratio  0.35
+  A MB     treated   284.5  untreated   286.6  ratio  0.99
+  A MC     treated   293.1  untreated   359.2  ratio  0.82
+  A MCint  treated   284.5  untreated   286.7  ratio  0.99
+  A MBimax treated   269.0  untreated   269.9  ratio  1.00
+  B M0     treated   281.7  untreated   374.2  ratio  0.75
+  B MB     treated   234.7  untreated   235.6  ratio  1.00
+  B MC     treated   273.2  untreated   356.9  ratio  0.77
+  B MCint  treated   236.5  untreated   237.5  ratio  1.00
+  B MBimax treated   243.6  untreated   245.0  ratio  0.99
+
+saved Fig7

@@ -1,0 +1,2 @@
+A MBimax RMSE 2.39  AICc 107.8  BIC 117.9  | kp=0.004282, kout=0.1769, IC50=0.1434, s=316.2, Pb=1.088, Imax=0.03875
+B MBimax RMSE 1.77  AICc 67.7  BIC 76.7  | kp=0.003785, kout=0.03066, IC50=1.358, s=5.911, Pb=4.784, Imax=0.8208

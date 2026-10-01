@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+Fig*.png
+Fig*.pdf
+Fig*.tif

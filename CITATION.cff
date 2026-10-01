@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article and this archive."
+title: "Code and data for: Tolerance is not dependence: a mathematical analysis of pharmacodynamic models of opioid tolerance and withdrawal"
+type: software
+authors:
+  - family-names: Ho
+    given-names: Harvey
+    affiliation: "Rātā BioSim Lab, Auckland, New Zealand"
+license: MIT
+repository-code: "https://github.com/hwe001/opioid-withdrawal-pd-models"
